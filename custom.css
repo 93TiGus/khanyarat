@@ -314,8 +314,8 @@ body {
     flex-direction: column;
     gap: 2rem;
     background: var(--second-bg-color);
-    padding-top: 5rem;
-    padding-bottom: 6rem;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
     padding-left: 6rem;
     padding-right: 6rem;
 }
