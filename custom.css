@@ -389,6 +389,7 @@ body {
     align-items: center;
     flex-direction: column;
     min-height: auto;
+    padding-top: 10rem;
     padding-bottom: 5rem;
     padding-left: 6rem;
     padding-right: 6rem;
